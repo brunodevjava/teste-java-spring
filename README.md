@@ -20,6 +20,7 @@ O objetivo deste teste é criar uma aplicação que seja capaz de gerar um relat
 3. Adicione as novas tabelas ao bando de dados PostgreSQL, que são  recuperacao_senha e log.
 4. Execute a aplicação Spring Boot.
 5. Acesse o endpoint para obter o relatório.
+6. Os create e inserts estão a pasta migration dentro de resources
 
 ## Versões das Bibliotecas
 
