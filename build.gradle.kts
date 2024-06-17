@@ -34,6 +34,11 @@ dependencies {
 	annotationProcessor("org.projectlombok:lombok")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
+	// https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports
+	implementation("net.sf.jasperreports:jasperreports:6.17.0")
+// https://mvnrepository.com/artifact/com.lowagie/itext
+	implementation("com.lowagie:itext:2.1.7")
+
 }
 springBoot {
 	mainClass.set("br.com.prolog.prolog_teste.PrologTesteApplication")

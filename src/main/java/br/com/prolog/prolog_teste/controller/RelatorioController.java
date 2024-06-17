@@ -22,4 +22,5 @@ public class RelatorioController {
             @RequestParam String fim) {
         return relatorioService.gerarRelatorio(cpf, inicio, fim);
     }
+
 }

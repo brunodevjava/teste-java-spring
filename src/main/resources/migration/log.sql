@@ -13,9 +13,3 @@ create table log
 alter table log
     owner to postgres;
 
-INSERT INTO public.log (nome_tabela, acao, data_criacao, cpf) VALUES ('COLABORADOR', 'CREATE', '2024-05-30 04:17:26.798865 +00:00', '46070952812');
-INSERT INTO public.log (nome_tabela, acao, data_criacao, cpf) VALUES ('COLABORADOR', 'UPDATE', '2024-05-30 17:45:30.386245 +00:00', '46070952812');
-INSERT INTO public.log (nome_tabela, acao, data_criacao, cpf) VALUES ('COLABORADOR', 'UPDATE', '2024-05-30 17:48:57.336167 +00:00', '46070952812');
-INSERT INTO public.log (nome_tabela, acao, data_criacao, cpf) VALUES ('COLABORADOR', 'UPDATE', '2024-05-30 18:02:40.528925 +00:00', '46070952812');
-INSERT INTO public.log (nome_tabela, acao, data_criacao, cpf) VALUES ('COLABORADOR', 'CREATE', '2024-05-30 18:19:09.817381 +00:00', '20408216000');
-INSERT INTO public.log (nome_tabela, acao, data_criacao, cpf) VALUES ('COLABORADOR', 'DELETE', '2024-05-30 18:19:50.211259 +00:00', '20408216000');
