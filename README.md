@@ -1,7 +1,5 @@
 # Teste Prático | Back-end | Java
 
-Seja bem-vindo(a) à nossa etapa de Teste Prático para a posição de Desenvolvimento BackEnd com Java! Este teste tem como objetivo avaliar suas habilidades técnicas e conhecimentos em desenvolvimento de software.
-
 ## Contexto
 
 A marcação de intervalos é uma funcionalidade utilizada por nossos usuários para controlar suas paradas para descanso, almoço, pernoite, entre outros, especialmente por motoristas. Neste teste, você será responsável por realizar uma consulta para produzir um relatório JSON 
